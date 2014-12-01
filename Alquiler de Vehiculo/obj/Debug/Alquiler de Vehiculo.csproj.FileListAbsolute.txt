@@ -1,0 +1,10 @@
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\bin\Debug\Alquiler de Vehiculo.exe.config
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\bin\Debug\Alquiler de Vehiculo.exe
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\bin\Debug\Alquiler de Vehiculo.pdb
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler de Vehiculo.csprojResolveAssemblyReference.cache
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler_de_Vehiculo.Form1.resources
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler_de_Vehiculo.Properties.Resources.resources
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler de Vehiculo.csproj.GenerateResource.Cache
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler de Vehiculo.exe
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler de Vehiculo.pdb
+C:\Users\castellar bustillo\Desktop\Alquiler auto\Alquiler de Vehiculo\Alquiler de Vehiculo\obj\Debug\Alquiler_de_Vehiculo.Registro.resources
